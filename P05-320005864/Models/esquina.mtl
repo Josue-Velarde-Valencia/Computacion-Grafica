@@ -1,0 +1,14 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Holocron_Corners.001
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Users/vpauv/Downloads/Blender/p5/C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Corners_Roughness.jpg
+map_refl C:/Users/vpauv/Downloads/Blender/p5/C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Corners_Metallic.jpg
+map_Bump -bm 1.000000 C:/Users/vpauv/Downloads/Blender/p5/C:/Users/jroqu/Downloads/C:/Holocron_Holocron_Corners_Normal.jpg
